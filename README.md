@@ -1,4 +1,4 @@
-
+## <picture><img src = "https://media.newyorker.com/photos/64177e0c6534701061ec3f19/master/w_2560%2Cc_limit/Bing_Ani_Final_B_2A.gif" width = 1020px></picture>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -28,7 +28,7 @@
 <!--Intro start-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif" width = 250px></picture>
+<picture> <img align="right" src="https://www.siili.com/hubfs/siili-data_and_ai_design_sprint-hero_mobile-800x1000.gif" width = 250px></picture>
 
 <br><br>
 🚀 Data Engineering Student | AI & ML Enthusiast | Aspiring Data Scientist | Seeking Growth Opportunities 🚀
