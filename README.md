@@ -26,6 +26,15 @@
 
 
 <!--Intro start-->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif" width = 250px></picture>
+
+<br><br>
+🚀 Data Engineering Student | AI & ML Enthusiast | Aspiring Data Scientist | Seeking Growth Opportunities 🚀
+
+Hi there! I'm a first-year Data Engineering student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
+
 - 🔭 I’m currently Studying at **INPT**
 
 - 🌱 I’m currently learning **all babout DATA Science**
