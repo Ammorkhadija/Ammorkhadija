@@ -30,19 +30,31 @@
 <picture> <img align="right" src="https://media2.giphy.com/media/f9RGISl9RmNOsWR5NP/giphy.gif?cid=ecf05e47mqkrjozv8jz21g0nwmeidjlaqkeytjulasfr1aqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 260px></picture>
 
 <br><br>
+### 👋 Hi there! I'm *Khadija Ammor*, but you can call me *Hazel*
+
+Hi there! I'm a first-year Data Science student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
+- 🎓 I'm currently pursuing my Master's degree in DATA Science at INPT <picture><img src="https://o.remove.bg/downloads/6cfda9fb-d736-467d-a065-a2cc22470e91/image-removebg-preview.png" width = 40px></picture> 
+- 🔭 I’m currently learning **all babout DATA Science**
+- ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0**, and I'm always on the lookout for new challenges and opportunities to grow.
+- 🌱 I'm constantly exploring new tools, techniques, and technologies to stay ahead of the curve. My toolbox includes **Python, R, SQL, TensorFlow, etc.**
+- 🤝 I love collaborating with fellow data enthusiasts and sharing my knowledge with the community
+- 📫 Feel free to connect with me or reach out via email at **ammorkhadijads@gmail.com**
+- 💬 Ask me about **anything and let's learn all together**
+- 📚 In my GitHub repositories, you'll find a collection of my data science projects, showcasing my skills in **data analysis, machine learning, data visualization, etc.**
+- 🚀 Let's embark on this data-driven journey together and make a difference, one byte at a time!
 🚀 Data Engineering Student | AI & ML Enthusiast | Aspiring Data Scientist | Seeking Growth Opportunities 🚀
 
-Hi there! I'm a first-year Data Engineering student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
 
-- 🔭 I’m currently Studying at **INPT**
 
-- 🌱 I’m currently learning **all babout DATA Science**
 
-- ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0**
 
-- 💬 Ask me about **...**
 
-- 📫 Feel free to reach me out **ammorkhadija@gmail.com**
+
+
+
+
+
+
 
 <!--Intro end-->
 
