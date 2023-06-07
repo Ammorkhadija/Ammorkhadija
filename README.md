@@ -38,7 +38,7 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
 
 - 🌱 I’m currently learning **all babout DATA Science**
 
-- ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0 **
+- ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0**
 
 - 💬 Ask me about **...**
 
@@ -80,13 +80,13 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Languages and Tools I know👨🏻‍💻</h2></summary>
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 60px> </picture><summary><h2 style="display: inline-block">Languages and Tools I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,discord,figmagithub,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio," />
+    <img src="https://skillicons.dev/icons?i=git,c,discord,figma,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio," />
   </a>
 </p>
 
