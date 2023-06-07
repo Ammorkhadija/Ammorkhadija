@@ -1,4 +1,3 @@
-## <picture><img src = "https://media.newyorker.com/photos/64177e0c6534701061ec3f19/master/w_2560%2Cc_limit/Bing_Ani_Final_B_2A.gif" width = 1020px></picture>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,13 +8,13 @@
   </ul>
 </div>
 
+## <picture><img src = "https://media.newyorker.com/photos/64177e0c6534701061ec3f19/master/w_2560%2Cc_limit/Bing_Ani_Final_B_2A.gif" width = 1020px></picture>
 
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -48,27 +47,30 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
 <!--Intro end-->
 
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<!--- stats & Trophy (start) -->
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ammorkhadija&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ammorkhadija&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ammorkhadija&theme=dark&hide_border=false" /> 
-</td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ammorkhadija&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammorkhadija&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="khadija" height="100px"/>
+<br/>
 
-<td width="50%" align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ammorkhadija&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 
 </p>        
