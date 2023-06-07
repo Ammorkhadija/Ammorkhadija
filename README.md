@@ -27,7 +27,7 @@
 <!--Intro start-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://www.siili.com/hubfs/siili-data_and_ai_design_sprint-hero_mobile-800x1000.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/f9RGISl9RmNOsWR5NP/giphy.gif?cid=ecf05e47mqkrjozv8jz21g0nwmeidjlaqkeytjulasfr1aqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 260px></picture>
 
 <br><br>
 🚀 Data Engineering Student | AI & ML Enthusiast | Aspiring Data Scientist | Seeking Growth Opportunities 🚀
