@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc"> 
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Khadija Ammor</h1></summary>
   </ul>
@@ -33,18 +33,15 @@
 ### 👋 Hi there! I'm *Khadija Ammor*, but you can call me *Hazel*
 
 Hi there! I'm a first-year Data Science student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
-- 🎓 I'm currently pursuing my Master's degree in DATA Science at INPT <picture><img src="https://o.remove.bg/downloads/6cfda9fb-d736-467d-a065-a2cc22470e91/image-removebg-preview.png" width = 40px></picture> 
-- 🔭 I’m currently learning **all about DATA Science**
+- 🎓 I'm currently pursuing my Master's degree in DATA Science at **INPT**. 
+- 🔭 I’m currently learning **all about DATA Science**.
 - ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0**, and I'm always on the lookout for new challenges and opportunities to grow.
 - 🌱 I'm constantly exploring new tools, techniques, and technologies to stay ahead of the curve. My toolbox includes **Python, R, SQL, TensorFlow, etc.**
-- 🤝 I love collaborating with fellow data enthusiasts and sharing my knowledge with the community
-- 📫 Feel free to connect with me or reach out via email at **ammorkhadijads@gmail.com**
-- 💬 Ask me about **anything and let's learn all together**
+- 🤝 I love collaborating with fellow data enthusiasts and sharing my knowledge with the community.
+- 📫 Feel free to connect with me or reach out via email at **ammorkhadijads@gmail.com**.
+- 💬 Ask me about **anything and let's learn all together**.
 - 📚 In my GitHub repositories, you'll find a collection of my data science projects, showcasing my skills in **data analysis, machine learning, data visualization, etc.**
 - 🚀 Let's embark on this data-driven journey together and make a difference, one byte at a time!
-🚀 Data Engineering Student | AI & ML Enthusiast | Aspiring Data Scientist | Seeking Growth Opportunities 🚀
-
-
 
 
 
