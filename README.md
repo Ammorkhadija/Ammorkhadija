@@ -70,7 +70,23 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/ammorkhadija/ammorkhadija">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ammorkhadija&repo=ammorkhadija&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	
+  </p>
+</div>
+</details>
+
+</br></br>
 
 
 </p>        
@@ -85,11 +101,24 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
 </div>
 <!--tech stack icons-->
 <p align="center">
+
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"/>
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"/>
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png"/>
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
+   <img height=50 src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
+   <img height=50 src="https://pandas.pydata.org/static/img/favicon_white.ico"/>
+   <img height=50 src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu"/>
+   <img height=50 src=""/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,discord,figma,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio," />
+    <img src="https://skillicons.dev/icons?i=git,c,discord,figma,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio,replit,twitter,html,css,js" />
   </a>
+   
 </p>
 
+   
+    
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
