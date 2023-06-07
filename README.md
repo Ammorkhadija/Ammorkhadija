@@ -110,9 +110,15 @@ Hi there! I'm a first-year Data Engineering student with a passion for artificia
    <img height=50 src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
    <img height=50 src="https://pandas.pydata.org/static/img/favicon_white.ico"/>
    <img height=50 src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu"/>
-   <img height=50 src=""/>
+   <img height=50 src="https://o.remove.bg/downloads/61ed7f6d-c446-45d1-93c9-daa48d152097/image-removebg-preview.png"/>
+   <img height=50 src="https://numpy.org/images/logo.svg"/>
+   <img height=60 src="https://o.remove.bg/downloads/081a224c-5e41-485b-83a8-b5310dc440c3/image-removebg-preview.png"/>
+   <img height=50 src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/>
+   <img height=50 src="https://o.remove.bg/downloads/cc7a6ec4-daed-42ec-b8dd-9da7183a043e/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe-thumbnail-removebg-preview.png"/>
+   <img height=50 src="https://o.remove.bg/downloads/5328c68c-e90b-4895-8b43-40d809c2081a/4152242-middle-removebg-preview.png"/>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,discord,figma,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio,replit,twitter,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=git,c,discord,figma,flask,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio,replit,twitter,html,css,js" />
   </a>
    
 </p>
