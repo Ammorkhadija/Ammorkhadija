@@ -7,8 +7,12 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Khadija Ammor</h1></summary>
   </ul>
 </div>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=xuCn8ux2gbs&t=24s&ab_channel=billwurtz" target="blank"><img src = "https://media.newyorker.com/photos/64177e0c6534701061ec3f19/master/w_2560%2Cc_limit/Bing_Ani_Final_B_2A.gif" width = 1020px></a>
 
-## <picture><img src = "https://media.newyorker.com/photos/64177e0c6534701061ec3f19/master/w_2560%2Cc_limit/Bing_Ani_Final_B_2A.gif" width = 1020px></picture>
+  
+</p>
+
 
 <!--- snake -->
 <div align="center">
