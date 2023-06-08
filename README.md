@@ -30,7 +30,7 @@
 <picture> <img align="right" src="https://media2.giphy.com/media/f9RGISl9RmNOsWR5NP/giphy.gif?cid=ecf05e47mqkrjozv8jz21g0nwmeidjlaqkeytjulasfr1aqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 260px></picture>
 
 <br><br>
-### 👋 Hi there! I'm *Khadija Ammor*, but you can call me *Hazel*
+### 👋 Hi there! I'm *Khadija Ammor*, but you can call me *HAZEL*
 
 Hi there! I'm a first-year Data Science student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
 - 🎓 I'm currently pursuing my Master's degree in DATA Science at **INPT**. 
@@ -119,12 +119,13 @@ Hi there! I'm a first-year Data Science student with a passion for artificial in
    <img height=50 src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
    <img height=50 src="https://pandas.pydata.org/static/img/favicon_white.ico"/>
    <img height=50 src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu"/>
-   <img height=50 src="https://o.remove.bg/downloads/61ed7f6d-c446-45d1-93c9-daa48d152097/image-removebg-preview.png"/>
+  <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>
    <img height=50 src="https://numpy.org/images/logo.svg"/>
-   <img height=60 src="https://o.remove.bg/downloads/081a224c-5e41-485b-83a8-b5310dc440c3/image-removebg-preview.png"/>
+   <img height=50 src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"/>
+   <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"/>
    <img height=50 src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/>
-   <img height=50 src="https://o.remove.bg/downloads/cc7a6ec4-daed-42ec-b8dd-9da7183a043e/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe-thumbnail-removebg-preview.png"/>
-   <img height=50 src="https://o.remove.bg/downloads/5328c68c-e90b-4895-8b43-40d809c2081a/4152242-middle-removebg-preview.png"/>
+   <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png"/>
+  
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,discord,figma,flask,html,eclipse,java,linux,bash,mysql,py,fastapi,github,idea,r,selenium,tensorflow,vscode,visualstudio,replit,twitter,html,css,js" />
