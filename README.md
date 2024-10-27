@@ -36,7 +36,7 @@
 <br><br>
 ### 👋 Hi there! I'm *Khadija Ammor*, but you can call me *HAZEL*
 
-Hi there! I'm a first-year Data Science student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
+Hi there! I'm a final-year Data Science student with a passion for artificial intelligence, machine learning, and data science. I'm eager to expand my knowledge and skills by seeking internships, mentorships, and collaborations that will help me gain practical experience and contribute to the field.
 - 🎓 I'm currently pursuing my Master's degree in DATA Science at **INPT**. 
 - 🔭 I’m currently learning **all about DATA Science**.
 - ☁️ I've keen interest in **AI, ML, Data Science, Neural Networks, NLP, Generative AI, Big Data, Analytics, Industry 4.0**, and I'm always on the lookout for new challenges and opportunities to grow.
